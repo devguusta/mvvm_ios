@@ -24,7 +24,7 @@ class StoryCardCollectionViewCellScren: UIView {
         let collectionView = UICollectionView(frame: .zero, collectionViewLayout: layout)
         collectionView.translatesAutoresizingMaskIntoConstraints = false
         collectionView.showsVerticalScrollIndicator = false
-        //TODO: REGISTER
+        collectionView.register(StoryCollectionViewCell.self, forCellWithReuseIdentifier: StoryCollectionViewCell.identifier)
         collectionView.contentInset = UIEdgeInsets(top: 5, left: 0, bottom: 5, right: 0)
         collectionView.register(StoryCardCollectionViewCell.self, forCellWithReuseIdentifier: StoryCardCollectionViewCell.identifier)
         collectionView.backgroundColor = .clear
