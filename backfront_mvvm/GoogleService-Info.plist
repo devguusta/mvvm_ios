@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390820610293-enkjdv23a2r1a5e16c962el7c6gh0n1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390820610293-enkjdv23a2r1a5e16c962el7c6gh0n1a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASnHpT7MLbo79looY9fRMBpz7Xo7wG0Z8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390820610293</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>guusta-dev.backfront-mvvm</string>
+	<key>PROJECT_ID</key>
+	<string>primeiroappmvvm-f580e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>primeiroappmvvm-f580e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390820610293:ios:4b8c4ce28b39f1991905bc</string>
+</dict>
+</plist>

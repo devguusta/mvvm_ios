@@ -150,8 +150,8 @@ class PostCollectionViewCellScreen: UIView {
             likeImageView.trailingAnchor.constraint(equalTo: cardView.trailingAnchor, constant:  -20),
             likeImageView.heightAnchor.constraint(equalToConstant: 25),
             likeImageView.widthAnchor.constraint(equalToConstant: 25),
-            profileImageView.heightAnchor.constraint(equalToConstant: 25),
-            profileImageView.widthAnchor.constraint(equalToConstant: 25),
+//            profileImageView.heightAnchor.constraint(equalToConstant: 25),
+//            profileImageView.widthAnchor.constraint(equalToConstant: 25),
             profileImageView.topAnchor.constraint(equalTo: cardView.topAnchor, constant: 17),
             
             profileImageView.leadingAnchor.constraint(equalTo: cardView.leadingAnchor, constant: 20),
